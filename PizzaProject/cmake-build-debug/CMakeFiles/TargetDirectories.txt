@@ -1,0 +1,3 @@
+C:/Users/kaial/OneDrive - The College of Wooster/Desktop/cs120/PizzaProject/cmake-build-debug/CMakeFiles/PizzaProject.dir
+C:/Users/kaial/OneDrive - The College of Wooster/Desktop/cs120/PizzaProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kaial/OneDrive - The College of Wooster/Desktop/cs120/PizzaProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
